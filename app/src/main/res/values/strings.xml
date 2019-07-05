@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KMVVMExample</string>
+    <string name="btn_add_quote">ADD Quote</string>
+</resources>
